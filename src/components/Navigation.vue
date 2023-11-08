@@ -1,6 +1,6 @@
 <template>
   <v-container fluid>
-    <v-row class="bg-grey-lighten-4" dense>
+    <v-row class="bg-secondary" dense>
       <v-col class="px-0 ma-0">
         <v-btn variant="text" class="text-capitalize">FAQs</v-btn>
         <span>|</span>
@@ -9,7 +9,7 @@
         <v-btn variant="text" class="text-capitalize">Support</v-btn>
       </v-col>
       <v-col class="d-flex justify-end">
-        <v-btn icon="mdi-facebook" variant="flat"> </v-btn>
+        <v-btn icon="mdi-facebook" variant="flat"></v-btn>
         <v-btn icon="mdi-twitter" variant="flat"> </v-btn>
         <v-btn icon="mdi-youtube" variant="flat"> </v-btn>
         <v-btn icon="mdi-instagram" variant="flat"> </v-btn>
